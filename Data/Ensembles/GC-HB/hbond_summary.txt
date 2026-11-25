@@ -1,0 +1,6 @@
+Hydrogen Bond Length Summary Statistics (GC Base Pair)
+Repetition: 1 of 100
+==================================================
+Minimum target H-bond length: 1.503 Å
+Maximum target H-bond length: 2.895 Å
+XYZ files generated: 1000

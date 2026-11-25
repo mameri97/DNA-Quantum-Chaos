@@ -1,0 +1,6 @@
+Hydrogen Bond Length Summary Statistics (AT Base Pair)
+Repetition: 1 of 100
+==================================================
+Minimum target H-bond length: 1.501 Å
+Maximum target H-bond length: 2.902 Å
+XYZ files generated: 1000
