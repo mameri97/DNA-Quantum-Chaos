@@ -1,0 +1,10 @@
+
+cff-version: 1.2.0
+message: "If you use the codes or datasets in this repository, please cite this work."
+type: software
+title: "Quantum Chaos and Random Matrix Theory in DNA Base Pairs"
+authors:
+  - family-names: Ameri
+    given-names: Mehdi
+    affiliation: Ferdowsi University of Mashhad
+repository-code: "https://github.com/mameri97/DNA-Quantum-Chaos"
