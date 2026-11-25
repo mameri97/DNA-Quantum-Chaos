@@ -102,9 +102,13 @@ If you use the codes or datasets provided here, please cite this repository. For
 
 Ferdowsi University of Mashhad
 
-## License
+## Licensing
 
-Licensing information for the source codes and datasets will be specified in the repository.
+The original source codes in this repository are distributed under the MIT License.
+
+The original scientific datasets, molecular geometries, and computational results are distributed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Please refer to `LICENSE` and `DATA-LICENSE.md` for the complete license terms.
 
 ## Repository
 
