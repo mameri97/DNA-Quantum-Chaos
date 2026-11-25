@@ -1,21 +1,18 @@
 
-cff-version: 1.2.0
-message: "If you use the codes or datasets in this repository, please cite this work."
-type: software
+cff-version: "1.2.0"
+message: "Please cite this repository if you use its codes or datasets."
 title: "Quantum Chaos and Random Matrix Theory in DNA Base Pairs"
+type: software
 authors:
-  - family-names: Ameri
-    given-names: Mehdi
-    affiliation: Ferdowsi University of Mashhad
-version: 1.0.0
+  - family-names: "Ameri"
+    given-names: "Mehdi"
+    affiliation: "Ferdowsi University of Mashhad"
+version: "1.0.0"
 date-released: "2026-11-25"
-abstract: >
-  Computational codes, molecular geometries, datasets, and statistical
-  analysis for investigating electronic spectral properties and
-  random-matrix statistics in Watson-Crick AT and GC DNA base pairs.
+abstract: "Computational codes, molecular geometries, datasets, and statistical analysis for investigating electronic spectral properties and random-matrix statistics in Watson-Crick AT and GC DNA base pairs."
 keywords:
   - DNA
-- Molecular Dynamics
   - Quantum Chaos
   - Random Matrix Theory
+  - Molecular Dynamics
 repository-code: "https://github.com/mameri97/DNA-Quantum-Chaos"
